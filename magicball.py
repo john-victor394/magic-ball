@@ -1,3 +1,4 @@
+#codeex
 import random
 num = random.randint(1,9)
 ques = input('Question : ')
